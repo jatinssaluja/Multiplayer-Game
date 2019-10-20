@@ -1,0 +1,19 @@
+#main-container {
+  display: flex;
+  flex-direction: column;
+  height: 31.25rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.player-container {
+  display: flex;
+  height: 50%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#banner {
+  height: 50%;
+
+}
